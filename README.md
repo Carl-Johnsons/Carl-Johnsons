@@ -13,6 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Carl-Johnsons&label=Profile%20views&color=0e75b6&style=flat" alt="carl-johnsons" /> </p> -->
+
+<div style="display:flex; justify-content:center;align-items: center;">
+<img src="./assets/wallpaper.gif" />
+</div>
+
+<h2 align="left"
+style="
+  font-family: 'Orbitron', sans-serif;
+  background: linear-gradient(90deg, #5ee6ff, #a259ff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 6px #6bc3ff;
+"
+>Main skills:</h2>
+<div style="width: 100%; display:flex; justify-content: center;">
+<svg fill="none" viewBox="0 0 700 650" width="700" height="650" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+  <div xmlns="http://www.w3.org/1999/xhtml">
+
 <style>
 .cool-border {
   position: relative;
@@ -116,24 +137,9 @@ background: radial-gradient(circle at top left, #3B82F6, #9333EA);
   }
 }
 </style>
-
-<div style="display:flex; justify-content:center;align-items: center;">
-<img src="./assets/wallpaper.gif" />
-</div>
-
-<h2 align="left"
-style="
-  font-family: 'Orbitron', sans-serif;
-  background: linear-gradient(90deg, #5ee6ff, #a259ff);
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: transparent;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 0 0 6px #6bc3ff;
-"
->Main skills:</h2>
 <div class="cool-border" style="
   display: flex;
+  flex:1;
   flex-direction: row-reverse;
   justify-content: space-between;
 ">
@@ -179,7 +185,7 @@ style="
   ">Back-end (preferred)</h4>
   <div>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+      <img src="./assets/csharp.svg" alt="csharp" width="40" height="40"/>
     </a>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
@@ -253,6 +259,10 @@ style="
   </a>
   </div>
 </div>
+</div>
+</div>
+</foreignObject>
+</svg>
 </div>
 <h2 align="left"
 style="
