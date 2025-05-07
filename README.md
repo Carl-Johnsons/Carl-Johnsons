@@ -29,9 +29,9 @@ style="
   text-shadow: 0 0 6px #6bc3ff;
 "
 >Main skills:</h2>
-<div style="width: 100%; display:flex; justify-content: center;">
+<p align="center">
 <img src="/assets/skill.svg">
-</div>
+</p>
 <h2 align="left"
 style="
   font-family: 'Orbitron', sans-serif;
