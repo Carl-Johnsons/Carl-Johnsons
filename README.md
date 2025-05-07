@@ -18,31 +18,12 @@ Here are some ideas to get you started:
 <img src="./assets/wallpaper.gif" />
 </div>
 
-<h2 align="left"
-style="
-  font-family: 'Orbitron', sans-serif;
-  background: linear-gradient(90deg, #5ee6ff, #a259ff);
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: transparent;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 0 0 6px #6bc3ff;
-"
->Main skills:</h2>
+<img src="/assets/main-skill.svg">
+
 <p align="center">
 <img src="/assets/skill.svg">
 </p>
-<h2 align="left"
-style="
-  font-family: 'Orbitron', sans-serif;
-  background: linear-gradient(90deg, #5ee6ff, #a259ff);
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: transparent;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 0 0 6px #6bc3ff;
-"
->Cool-looking achievements 🔥:</h2>
+<img src="./assets/cool-achievement.svg">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
 width="300" src="https://github-profile-trophy.vercel.app/?username=carl-johnsons&theme=darkhub&row=2&column=3" alt="carl-johnsons" /></a>
 
@@ -55,17 +36,7 @@ width="300" src="https://github-profile-trophy.vercel.app/?username=carl-johnson
 <img width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=carl-johnsons&theme=aura&hide_border=true" alt="carl-johnsons" />
 </p>
 
-<h2
-  style="
-    font-family: 'Orbitron', sans-serif;
-    background: linear-gradient(90deg, #89f0ff, #d988ff);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-    -webkit-text-fill-color: transparent;
-    text-shadow: 0 0 4px #a8e0ff;
-  "
->How to reach me:</h2>
+<img src="./assets/how-to-reach-me.svg">
 
 - 📫 **ducnlt.it@gmail.com**
 - 📫 [Linkedln](https://www.linkedin.com/in/nguy%E1%BB%85n-l%C3%AA-t%C3%A0i-%C4%91%E1%BB%A9c-92a790305/)
